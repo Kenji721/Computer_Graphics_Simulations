@@ -3,6 +3,8 @@
 ## Overview
 This project is a **real-time Solar System simulation** built using **C++** with a computer graphics framework provided by **Benes Bedrich**. It showcases the orbital motion of celestial bodies and interactive camera controls.
 
+- Video Showing the execution of the program [Execution](https://youtube.com/shorts/bETmwN_scB8?feature=share)
+
 ## Features
 - 🌌 **Real-time rendering** of the Solar System.
 - 🪐 **Planets and moons** with accurate orbital mechanics.
